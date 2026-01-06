@@ -9,11 +9,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-
 <a href="https://x.com/ansaannandrews" target="_blank">
-  <i class="fa-brands fa-x-twitter" style="font-size:24px; color:black;"></i>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="24" height="24" />
 </a>
+
 
 
 
