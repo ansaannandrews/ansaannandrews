@@ -11,7 +11,14 @@
 </p>
 <a href="https://x.com/ansaannandrews">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="22" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/ansaannandrews">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="22" />
+</a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/YOUR_ID">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="22" />
 </a>
+
 
 
 
