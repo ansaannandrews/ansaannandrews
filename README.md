@@ -5,9 +5,8 @@
 ## 🌐 Socials:
 
 
-  <a href="https://www.linkedin.com/in/ansa-ann-andrews-89642139b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
+
 </p>
 <a href="https://x.com/ansaannandrews">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="22"/>
