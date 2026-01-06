@@ -9,7 +9,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-<a href="https://x.com/ansaannandrews"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="22"/></a>
+Connect with me <a href="https://x.com/ansaannandrews"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="20"/></a>
+
 
 
 
