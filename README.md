@@ -9,7 +9,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-ansaannandrews
+<a href="https://x.com/ansaannandrews" target="_blank" aria-label="X profile">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="black" viewBox="0 0 24 24">
+    <path d="M18.9 2H22l-6.7 7.7L23.3 22h-6.4l-5-6.6L6 22H2.9l7.2-8.3L.7 2h6.6l4.5 6L18.9 2z"/>
+  </svg>
+</a>
+
 
 
 ## 🛠️ Tech Stack:
