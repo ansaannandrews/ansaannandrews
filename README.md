@@ -1,7 +1,5 @@
 # 👋 Hi, I'm ANSA ANN ANDREWS
--
 
----
 ## 🌐 Socials:
 
 
