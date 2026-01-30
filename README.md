@@ -1,5 +1,5 @@
 # 👋 Hi, I'm ANSA ANN ANDREWS
-- 💻 Interested in frontend development
+-
 
 ---
 ## 🌐 Socials:
